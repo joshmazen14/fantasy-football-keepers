@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+keepers/oauth.json
+keepers/league_config.py
+dist/*
+.vscode
